@@ -1,2 +1,2 @@
-# 8-Puzzle-Space-Search-using-A-Star-Algorithm
+# 8-Puzzle-Space-Search-using-AStar-Algorithm
 Solving 8-Puzzle using A* Algorithm
